@@ -7,6 +7,7 @@ Professional muesli:
 - Can use Vue, Nuxt and right now getting experience in Svelte(Kit)
 - Want to learn Rust
 - Deploys websites on Vercel
+- Also has a terrible profile picture
 
 <!---
 ubionexd/ubionexd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
