@@ -1,6 +1,6 @@
 ### ubionexd. 
 
-Professional muesli:
+Professional cereal:
 - Capable of messing up code all day
 - Can search on Google
 - Contributing to [Modrinth](https://github.com/modrinth) 
