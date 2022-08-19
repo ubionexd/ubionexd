@@ -9,7 +9,7 @@ Professional cereal:
 
 ---
 
-Learn more about me on [my website](https://ubionexd.vercel.apl)
+Learn more about me on [my website](https://ubionexd.vercel.app)
 <!---
 ubionexd/ubionexd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
