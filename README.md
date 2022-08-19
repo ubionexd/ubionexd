@@ -2,13 +2,14 @@
 
 Professional cereal:
 - Capable of messing up code all day
-- Can search on Google
 - Contributing to [Modrinth](https://github.com/modrinth) 
-- Can use Vue, Nuxt and right now getting experience in Svelte(Kit)
-- Want to learn Rust
-- Deploys websites on Vercel
+- Beginner Rust developer
+- Has experience in Vue, Svelte, Astro, and JavaScript.
 - Also has a terrible profile picture
 
+---
+
+Learn more about me on [my website](https://ubionexd.vercel.apl)
 <!---
 ubionexd/ubionexd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
